@@ -20,3 +20,7 @@ With more than 10 commands
 * /file
 * /say
 * /clsall
+
+# Thanks to
+xNull for the basics of the chat. 
+https://github.com/xNul/batch-chat
